@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 92a41c1931158b344b196a55dd82a1d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700e8f7151058094e924c80109dca788
+      internalID: 1756066648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 385
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f997702f37b5d4ab55f2fa871669bf
+      internalID: -1953393880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 385
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de6cabc9d12364ba1a40dd30d9b4c3
+      internalID: 1830028179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 394
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51979f542cfb5d948bccff0ce739bdd6
+      internalID: 855371325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 394
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b670b69f917714ea7e45de4e43fd76
+      internalID: -1245556230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 394
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002ebd8e3252f546a09398ae5fbd8d0
+      internalID: 1047428869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 417
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9f5e2fe42fdb44bdb71f3dab1e23a
+      internalID: 1676721500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 385
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd723f76a4e671245972f041ad7134c5
+      internalID: -1139454646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 257
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ac1c07bcdbc24fbd93c1ce7117033
+      internalID: 1208493359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 314
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef64c2cfbd663b4fb6f190b337a64b6
+      internalID: 496906198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 317
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ad6d3d28983d44b2d80a4bf07f6a8
+      internalID: 1630953695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 317
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba953c83d5de0c044a30b680ab566663
+      internalID: -1153258708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 317
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd578c88a15f4b4692395e58f078c78
+      internalID: 737061700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_13
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 320
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e321bfc537ffc5346a9cec8a542560f1
+      internalID: 729629646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 244
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0792c5765f1ca4693ceaef1791c60f
+      internalID: -536042251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 249
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f8f19df919fd43b77e71d2bce99d0
+      internalID: -299402400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 254
+        width: 122
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84025904b44eebd43a109ccb608ba7af
+      internalID: -101069742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 260
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cc47568fd30e347ab1f4c430ad865e
+      internalID: -741833372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2192632224584d9c40c5660596e2a
+      internalID: 581629256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 155
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0aae31aa513df46a1f1f2a6b1010be
+      internalID: 1309905593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 227
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c575c2495a0d45aba3ea566fb0597
+      internalID: 553189257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 173
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8de29078349d843bd81dc1501c1d95
+      internalID: -799267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 185
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c712cb97fbccb6409d29fb2e0e41276
+      internalID: -854828724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 203
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586da7cfe95dad4b8aa1035ffd45bb0
+      internalID: 714132172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 203
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f283a0d91fce5654b8394a756153aefd
+      internalID: -449568901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd883f3cfb316c469e8fe00fc9ca5e9
+      internalID: -25131941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59236dc2083ec4bb3ebcf7942db239
+      internalID: 1960487947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 154
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f338c0dae3e434dae235c6f2beabe0
+      internalID: 1839128475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 158
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc12c934ecb174b8a0ced4ffebd9d2
+      internalID: 2012316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fa4d09fee03c54092ea5e98cd5cb21
+      internalID: 468191398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 59
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779300d48744f347bfec504a7d4c380
+      internalID: -77487383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5376dd5a407e24c81ecc47733c5923
+      internalID: 981938519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 124
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4874fd5d53a7dcc4da1b1b29f6cf51c8
+      internalID: -633875377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 104
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae1430f58274d43b2813af27df629e
+      internalID: -127180209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 112
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae557107fd60146bb86798b2672a89
+      internalID: -1935620386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 124
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072f9a825976cac4ab0c6eb25c10496b
+      internalID: -1054635686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 126
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69edc79d9742641a92e6a18f50530e
+      internalID: 147357902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 37
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fece6231a36384f85b4651ccb40e30
+      internalID: -1771805771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 61
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164ad67bd7142349b91ef55992943c7
+      internalID: -1256258286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f92be6c74af8e14d894312cef242ede
+      internalID: 704696181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 77
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b35c3d4e020142b8b3c4e5aeb7d5d
+      internalID: 1404588097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 94
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385fa4c8aa4f544b8e9b8293d233359
+      internalID: 1267661996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 94
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba774fb8689cebe4ca7fa542762882ba
+      internalID: 2121909378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6723b1fafe2845be315df251651b6
+      internalID: -969277269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 63
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e678b2f66affdfa4cb534af550a3921b
+      internalID: 1343146841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 68
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453024cdebd85ab45a0c2f72da32b374
+      internalID: -114168570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1022cdce363f41902cc4416e413e6
+      internalID: -2115807765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011226547e8d2254580b05ac567c2ab0
+      internalID: -548380141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d0efa1fb76d194d846b480191e9b33
+      internalID: -872841933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 34
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156aacafc6be4fc40a0ebfeef066328c
+      internalID: 1863408630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 8
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c642358e638f6d46a3dabcf7e416226
+      internalID: 253311101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 35
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d8cd882cb0b364b956c913fc1f2eea
+      internalID: -1243377334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 39
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f31056dacef2b47a2829aeb7aa0d7d
+      internalID: -332220571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac87cc27b25e1498438edf18960f69
+      internalID: 736345276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d3f9aff712e3147969776d0c9a5d7c
+      internalID: 1916309596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SEING_RED_OBJECTS_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 10
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa7b13f6821cf469cc21dc048fb463
+      internalID: 1145651881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INGAME_SEING_RED_OBJECTS_21: -799267577
+      INGAME_SEING_RED_OBJECTS_9: 496906198
+      INGAME_SEING_RED_OBJECTS_13: 729629646
+      INGAME_SEING_RED_OBJECTS_19: 1309905593
+      INGAME_SEING_RED_OBJECTS_53: 736345276
+      INGAME_SEING_RED_OBJECTS_0: 1756066648
+      INGAME_SEING_RED_OBJECTS_55: 1145651881
+      INGAME_SEING_RED_OBJECTS_16: -101069742
+      INGAME_SEING_RED_OBJECTS_38: -1256258286
+      INGAME_SEING_RED_OBJECTS_11: -1153258708
+      INGAME_SEING_RED_OBJECTS_17: -741833372
+      INGAME_SEING_RED_OBJECTS_8: 1208493359
+      INGAME_SEING_RED_OBJECTS_50: 253311101
+      INGAME_SEING_RED_OBJECTS_18: 581629256
+      INGAME_SEING_RED_OBJECTS_52: -332220571
+      INGAME_SEING_RED_OBJECTS_4: -1245556230
+      INGAME_SEING_RED_OBJECTS_6: 1676721500
+      INGAME_SEING_RED_OBJECTS_5: 1047428869
+      INGAME_SEING_RED_OBJECTS_42: 2121909378
+      INGAME_SEING_RED_OBJECTS_2: 1830028179
+      INGAME_SEING_RED_OBJECTS_41: 1267661996
+      INGAME_SEING_RED_OBJECTS_14: -536042251
+      INGAME_SEING_RED_OBJECTS_7: -1139454646
+      INGAME_SEING_RED_OBJECTS_33: -127180209
+      INGAME_SEING_RED_OBJECTS_12: 737061700
+      INGAME_SEING_RED_OBJECTS_36: 147357902
+      INGAME_SEING_RED_OBJECTS_23: 714132172
+      INGAME_SEING_RED_OBJECTS_40: 1404588097
+      INGAME_SEING_RED_OBJECTS_29: 468191398
+      INGAME_SEING_RED_OBJECTS_32: -633875377
+      INGAME_SEING_RED_OBJECTS_49: 1863408630
+      INGAME_SEING_RED_OBJECTS_30: -77487383
+      INGAME_SEING_RED_OBJECTS_31: 981938519
+      INGAME_SEING_RED_OBJECTS_22: -854828724
+      INGAME_SEING_RED_OBJECTS_27: 1839128475
+      INGAME_SEING_RED_OBJECTS_51: -1243377334
+      INGAME_SEING_RED_OBJECTS_26: 1960487947
+      INGAME_SEING_RED_OBJECTS_15: -299402400
+      INGAME_SEING_RED_OBJECTS_46: -2115807765
+      INGAME_SEING_RED_OBJECTS_44: 1343146841
+      INGAME_SEING_RED_OBJECTS_54: 1916309596
+      INGAME_SEING_RED_OBJECTS_20: 553189257
+      INGAME_SEING_RED_OBJECTS_48: -872841933
+      INGAME_SEING_RED_OBJECTS_34: -1935620386
+      INGAME_SEING_RED_OBJECTS_25: -25131941
+      INGAME_SEING_RED_OBJECTS_45: -114168570
+      INGAME_SEING_RED_OBJECTS_37: -1771805771
+      INGAME_SEING_RED_OBJECTS_24: -449568901
+      INGAME_SEING_RED_OBJECTS_47: -548380141
+      INGAME_SEING_RED_OBJECTS_28: 2012316629
+      INGAME_SEING_RED_OBJECTS_1: -1953393880
+      INGAME_SEING_RED_OBJECTS_3: 855371325
+      INGAME_SEING_RED_OBJECTS_39: 704696181
+      INGAME_SEING_RED_OBJECTS_35: -1054635686
+      INGAME_SEING_RED_OBJECTS_10: 1630953695
+      INGAME_SEING_RED_OBJECTS_43: -969277269
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
