@@ -6,15 +6,16 @@ public class Ban : MonoBehaviour
 {
 
     Vector3 initPos;
+    public line line;
     Rigidbody2D rb;
-    LineRenderer line1, line2;
+    public Vector2 addforce;
+  
     // Start is called before the first frame update
     void Start()
     {
         initPos = transform.localPosition;
         rb = GetComponent<Rigidbody2D>();
- //       line1 = GameObject.Find("line1").GetComponent<LineRenderer>(); ;
- //       line2 = GameObject.Find("line2").GetComponent<LineRenderer>(); ;
+
     }
 
     // Update is called once per frame
@@ -35,23 +36,31 @@ public class Ban : MonoBehaviour
 
     private void OnMouseDrag()
     {
+        Vector3 vtForce = initPos - transform.localPosition;
+        addforce = vtForce * 800;
 
-        
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        float maxX = Mathf.Clamp(mousePos.x, initPos.x - 3, initPos.x + 3);
-        float maxY = Mathf.Clamp(mousePos.y, initPos.y - 3, initPos.y + 3);
+            float maxX = Mathf.Clamp(mousePos.x, initPos.x - 3, initPos.x + 3);
+            float maxY = Mathf.Clamp(mousePos.y, initPos.y - 3, initPos.y + 3);
+            
+            transform.localPosition = new Vector2(maxX, maxY);
+        GetComponent<sound>().Play(3);
 
-        transform.localPosition = new Vector2(maxX, maxY);
- //       
+        //       
     }
     private void OnMouseUp()
     {
 
-        Vector3 vtForce = initPos - transform.localPosition;
-
-        rb.AddForce(vtForce * 800);
+        
+        rb.AddForce(addforce);
         rb.gravityScale = 1;
+        GetComponent<sound>().Play(4);
+        line.check = true;
+        
+
+
     }
+
 
 }
     

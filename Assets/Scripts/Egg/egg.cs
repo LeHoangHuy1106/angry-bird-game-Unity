@@ -10,6 +10,8 @@ public class egg : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Destroy(gameObject);
+            GameObject.Find("Canvas").GetComponent<buttonController>().setPoint(2);
+            GameObject.FindGameObjectWithTag("Player").GetComponent<sound>().Play(2);
         }
     }
 
