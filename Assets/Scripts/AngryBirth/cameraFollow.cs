@@ -15,12 +15,12 @@ public class cameraFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float x = transform.localPosition.x;
-        x = Mathf.Clamp(x, -5.06f,3.95f);
-        Vector3 temp = cmr.transform.localPosition;
+        float x = transform.position.x;
+        x = Mathf.Clamp(x, -12.82f, 100f);
+        Vector3 temp = cmr.transform.position;
         temp.x = x;
     
-        cmr.transform.localPosition = temp;
+        cmr.transform.position = temp;
   
         
     }
